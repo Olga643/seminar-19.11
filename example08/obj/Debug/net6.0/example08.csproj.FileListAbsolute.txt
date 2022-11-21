@@ -1,0 +1,15 @@
+C:\Users\Olga\Desktop\Seminar19.11\example08\obj\Debug\net6.0\example08.csproj.AssemblyReference.cache
+C:\Users\Olga\Desktop\Seminar19.11\example08\obj\Debug\net6.0\example08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga\Desktop\Seminar19.11\example08\obj\Debug\net6.0\example08.AssemblyInfoInputs.cache
+C:\Users\Olga\Desktop\Seminar19.11\example08\obj\Debug\net6.0\example08.AssemblyInfo.cs
+C:\Users\Olga\Desktop\Seminar19.11\example08\obj\Debug\net6.0\example08.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\Seminar19.11\example08\bin\Debug\net6.0\example08.exe
+C:\Users\Olga\Desktop\Seminar19.11\example08\bin\Debug\net6.0\example08.deps.json
+C:\Users\Olga\Desktop\Seminar19.11\example08\bin\Debug\net6.0\example08.runtimeconfig.json
+C:\Users\Olga\Desktop\Seminar19.11\example08\bin\Debug\net6.0\example08.dll
+C:\Users\Olga\Desktop\Seminar19.11\example08\bin\Debug\net6.0\example08.pdb
+C:\Users\Olga\Desktop\Seminar19.11\example08\obj\Debug\net6.0\example08.dll
+C:\Users\Olga\Desktop\Seminar19.11\example08\obj\Debug\net6.0\refint\example08.dll
+C:\Users\Olga\Desktop\Seminar19.11\example08\obj\Debug\net6.0\example08.pdb
+C:\Users\Olga\Desktop\Seminar19.11\example08\obj\Debug\net6.0\example08.genruntimeconfig.cache
+C:\Users\Olga\Desktop\Seminar19.11\example08\obj\Debug\net6.0\ref\example08.dll
