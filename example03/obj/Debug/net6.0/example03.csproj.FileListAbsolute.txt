@@ -1,0 +1,15 @@
+C:\Users\Olga\Desktop\Seminar19.11\example03\bin\Debug\net6.0\example03.exe
+C:\Users\Olga\Desktop\Seminar19.11\example03\bin\Debug\net6.0\example03.deps.json
+C:\Users\Olga\Desktop\Seminar19.11\example03\bin\Debug\net6.0\example03.runtimeconfig.json
+C:\Users\Olga\Desktop\Seminar19.11\example03\bin\Debug\net6.0\example03.dll
+C:\Users\Olga\Desktop\Seminar19.11\example03\bin\Debug\net6.0\example03.pdb
+C:\Users\Olga\Desktop\Seminar19.11\example03\obj\Debug\net6.0\example03.csproj.AssemblyReference.cache
+C:\Users\Olga\Desktop\Seminar19.11\example03\obj\Debug\net6.0\example03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga\Desktop\Seminar19.11\example03\obj\Debug\net6.0\example03.AssemblyInfoInputs.cache
+C:\Users\Olga\Desktop\Seminar19.11\example03\obj\Debug\net6.0\example03.AssemblyInfo.cs
+C:\Users\Olga\Desktop\Seminar19.11\example03\obj\Debug\net6.0\example03.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\Seminar19.11\example03\obj\Debug\net6.0\example03.dll
+C:\Users\Olga\Desktop\Seminar19.11\example03\obj\Debug\net6.0\refint\example03.dll
+C:\Users\Olga\Desktop\Seminar19.11\example03\obj\Debug\net6.0\example03.pdb
+C:\Users\Olga\Desktop\Seminar19.11\example03\obj\Debug\net6.0\example03.genruntimeconfig.cache
+C:\Users\Olga\Desktop\Seminar19.11\example03\obj\Debug\net6.0\ref\example03.dll
